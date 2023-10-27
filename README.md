@@ -10,4 +10,9 @@ A port scanner operates by sending network requests to connect to specific TCP o
 The fundamental process involves sending packets of network data to the designated ports to assess their current status. For example, if you wanted to verify the functionality of a web server, you would check the status of port 80 on that server to confirm whether it is open and actively listening for incoming connections.
 
 The status information obtained through port scanning can be crucial in various scenarios, serving as a valuable tool for network engineers and administrators to diagnose network issues or application connectivity problems. Simultaneously, it can be exploited by attackers to identify potential entry points for network infiltration.
+## Installation
+Refer to requirements.txt file to know the dependencies.
 
+## Usage
+` python3 portscanner.py {IP ADDR} `
+-Example: ` python3 portscanner.py 192.168.25.1 `
