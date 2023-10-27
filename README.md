@@ -14,6 +14,6 @@ The status information obtained through port scanning can be crucial in various 
 Refer to requirements.txt file to know the dependencies.
 
 ## Usage
-          ` python3 portscanner.py {IP ADDR} `
+    ` python3 portscanner.py {IP ADDR} `
 
--Example: ` python3 portscanner.py 192.168.25.1 `
+Eg.: ` python3 portscanner.py 192.168.25.1 `
