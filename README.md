@@ -15,4 +15,5 @@ Refer to requirements.txt file to know the dependencies.
 
 ## Usage
 ` python3 portscanner.py {IP ADDR} `
+
 -Example: ` python3 portscanner.py 192.168.25.1 `
